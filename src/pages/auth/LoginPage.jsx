@@ -89,11 +89,11 @@ export default function LoginPage() {
           </div>
 
           <h2 className="text-4xl font-black text-white leading-tight mb-4 tracking-tight">
-            Estimates that<br />
-            <span className="text-az-sky">win projects.</span>
+            Create Accurate Estimates<br />
+            <span className="text-az-sky">That Win More Projects.</span>
           </h2>
           <p className="text-white/55 text-sm leading-relaxed max-w-xs">
-            Create professional proposals, calculate costs instantly, and export client-ready PDFs — all in one place.
+            Generate professional estimates in minutes, calculate costs automatically, and export client-ready proposals with confidence.
           </p>
 
           {/* Feature grid */}
