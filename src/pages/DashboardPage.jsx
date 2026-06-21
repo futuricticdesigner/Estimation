@@ -21,7 +21,7 @@ function StatCard({ label, value, sub, icon: Icon, accent, bg }) {
     <motion.div variants={item}>
       <Card hover>
         <div className="p-5 relative overflow-hidden">
-          <div className="absolute top-0 left-0 right-0 h-0.5" style={{ background: accent }} />
+          <div className="absolute top-0 left-0 right-0 h-1 rounded-t-2xl" style={{ background: accent }} />
           <div className="flex items-start justify-between">
             <div className="flex-1">
               <p className="text-xs font-bold text-slate-400 uppercase tracking-wider">{label}</p>
