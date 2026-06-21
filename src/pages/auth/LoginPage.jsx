@@ -110,8 +110,8 @@ export default function LoginPage() {
           </div>
         </div>
 
-        <p className="relative px-12 pb-8 text-white/25 text-xs">
-          © {new Date().getFullYear()} Azularc Inc. · Internal use only
+        <p className="relative px-12 pb-8 text-white/60 text-xs">
+          © {new Date().getFullYear()} Azul Arc · Internal use only
         </p>
       </div>
 
@@ -227,8 +227,8 @@ export default function LoginPage() {
             </p>
           </div>
 
-          <p className="text-center text-xs text-slate-300 mt-6">
-            Protected by Azularc · Internal tool only
+          <p className="text-center text-xs text-slate-500 mt-6">
+            Protected by Azul Arc · Internal tool only
           </p>
         </motion.div>
       </div>
